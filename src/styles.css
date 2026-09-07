@@ -24,6 +24,7 @@
 @media(max-width:700px){.brand{max-width:calc(100% - 112px);font-size:12px;white-space:nowrap}.brand-logo{width:40px;height:40px;flex:0 0 40px}.hero-note{display:none}.destination-grid{grid-template-columns:1fr 1fr}.destination-body{padding:16px}.destination h3{font-size:15px}.destination p{font-size:11px;line-height:1.45}.destination{border-top-width:2px}}
 .footer-call{justify-self:start}.footer-grid{gap:20px}.footer-grid p{margin:0}
 .footer-actions{justify-self:start;flex-wrap:wrap}
+.menu{display:none!important}@media(max-width:700px){.nav{height:auto;min-height:72px;flex-wrap:wrap;padding:9px 0}.nav nav{display:flex;position:static;order:3;width:100%;padding:8px 0 4px;background:transparent;flex-direction:row;justify-content:center;gap:12px;font-size:11px}.nav nav .button{width:auto;padding:8px 11px}.nav nav a:not(.button){color:#fff}}
 .footer-grid .brand-logo{width:54px;height:54px}.footer-actions .footer-call,.footer-actions .whatsapp{width:150px}
 .map-layout{grid-template-columns:1fr;gap:28px}.lebanon-map{max-width:220px}.city-list{grid-template-columns:1fr;gap:0}.map-label{font-size:10px}
 .interactive-map{height:420px}
